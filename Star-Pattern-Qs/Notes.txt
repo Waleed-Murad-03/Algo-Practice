@@ -1,0 +1,77 @@
+1.)
+Print nxn Star Square
+* * * *
+* * * *
+* * * *
+* * * *
+
+2.)
+Right-Angled Star Triangle
+*
+* *
+* * *
+* * * *
+
+
+
+3.)
+Print a Right-Angled Number Triangle
+1
+1 2
+1 2 3
+1 2 3 4
+
+
+
+4.)
+Print a Right-Angled Triangle of Repeated Numbers
+1
+2 2
+3 3 3
+4 4 4 4
+
+
+
+5.)
+Print a Reverse Right-Angled Triangle of Increasing Numbers
+1 2 3 4
+1 2 3
+1 2
+1
+
+
+
+6.)
+Print a Right-Aligned Right-Angled Triangle of Stars
+      *
+    * *
+  * * *
+* * * *
+
+
+
+
+
+7.)
+Print a Right-Angled Triangle of Alternating 1s and 0s
+1
+1 0
+1 0 1
+1 0 1 0
+
+
+
+
+8.) 
+Right-Angled Triangle of Alternating 1s and 0s (Global Toggle)
+1
+0 1
+0 1 0
+1 0 1 0
+
+
+
+
+
+
+
